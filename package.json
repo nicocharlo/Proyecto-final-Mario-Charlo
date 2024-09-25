@@ -1,0 +1,25 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "Tercera entrega Mario Charlo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicocharlo/PreEntrega3-MarioNicolasCharloLaguna.git"
+  },
+  "keywords": [
+    "comparar",
+    "precios",
+    "productos",
+    "servicios"
+  ],
+  "author": "Nico Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicocharlo/PreEntrega3-MarioNicolasCharloLaguna/issues"
+  },
+  "homepage": "https://github.com/nicocharlo/PreEntrega3-MarioNicolasCharloLaguna#readme"
+}

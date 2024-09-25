@@ -1,0 +1,52 @@
+{
+    "categorias": {
+      "supermercados": [
+        {
+          "producto": "Pan",
+          "empresas": [
+            { "empresa": "Disco", "precio": 60 },
+            { "empresa": "Ta-Ta", "precio": 55 },
+            { "empresa": "Tamisur", "precio": 63 },
+            { "empresa": "Carrefour", "precio": 55}
+          ]
+        },
+        {
+          "producto": "Fideos",
+          "empresas": [
+            { "empresa": "Disco", "precio": 55 },
+            { "empresa": "Ta-Ta", "precio": 58 },
+            { "empresa": "Tamisur", "precio": 59 },
+            { "empresa": "Carrefour", "precio": 61 }
+          ]
+        },
+        {
+          "producto": "Arroz",
+          "empresas": [
+            { "empresa": "Disco", "precio": 38 },
+            { "empresa": "Ta-Ta", "precio": 35 },
+            { "empresa": "Tamisur", "precio": 33 },
+            { "empresa": "Carrefour", "precio": 42 }
+          ]
+        },
+        {
+          "producto": "Shampoo",
+          "empresas": [
+            { "empresa": "Disco", "precio": 400 },
+            { "empresa": "Ta-Ta", "precio": 410 },
+            { "empresa": "Tamisur", "precio": 398 },
+            { "empresa": "Carrefour", "precio": 409 }
+          ]
+        },
+        {
+          "producto": "Miel",
+          "empresas": [
+            { "empresa": "Disco", "precio": 119 },
+            { "empresa": "Ta-Ta", "precio": 125 },
+            { "empresa": "Tamisur", "precio": 130 },
+            { "empresa": "Carrefour", "precio": 122 }
+          ]
+        }
+      ]
+    }
+  }
+  

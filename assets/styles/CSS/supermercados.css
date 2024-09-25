@@ -1,0 +1,48 @@
+    /* Estilos adicionales */
+    .container {
+        background-color: transparent;
+        padding: 0;
+      }
+      .table-wrapper {
+        overflow-x: auto;
+        background-color: transparent;
+        width: 100%;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 10px;
+        text-align: center;
+        border: 1px solid #ddd;
+      }
+      th {
+        background-color: #f8f9fa;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+      .sello-barato {
+        display: inline-block;
+        margin-left: 5px;
+        width: 30px;
+        height: 30px;
+        background-image: url('../assets/Fotos/Mejor\ precio.png'); /* Reemplaza con la ruta de tu imagen de sello */
+        background-size: cover;
+      }
+      .btn-action {
+        margin-top: 5px;
+      }
+      .btn-add {
+        background-color: #28a745;
+        color: #fff;
+      }
+      .btn-remove {
+        background-color: #dc3545;
+        color: #fff;
+      }
+      .btn-favorite {
+        background-color: #ffc107;
+        color: #fff;
+      }
